@@ -1,5 +1,8 @@
 ## React培训
 
+### 培训课程网站
+<https://reactedu.com/course/>
+
 **学习大纲**
 
 ### 第一部分 React 项目从零开始
